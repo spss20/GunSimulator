@@ -1,5 +1,5 @@
 # GunSimulator
-A 3D Gun Simulator using Android device raw data of accelerometer. A device is equipped in muzzle of a gun and a simulation of environment is produced.
+A 3D Gun Simulator using OpenGL and an accelerometer in Android. A device is equipped in the muzzle of a gun and a simulation of the environment is produced.
 
 
 
